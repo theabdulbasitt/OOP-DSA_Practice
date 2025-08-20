@@ -1,3 +1,10 @@
+
+# i didnt implmented the getter nad setter as it is not affecting the main learning we want 
+# achieve from this question, also i didnt bother about the minor print like name, max passengers etc
+# but you can do the implmentation properly, as it will be impactfu;
+
+
+
 class Ship:
     
     def __init__(self, name, year):
