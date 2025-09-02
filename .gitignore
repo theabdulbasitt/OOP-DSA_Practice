@@ -1,0 +1,12 @@
+node_modules/
+package-lock.json
+
+.env
+.env.local
+.env.*.local
+
+.vscode/
+.idea/
+
+*.log
+npm-debug.log*
